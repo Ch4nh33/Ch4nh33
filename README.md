@@ -2,7 +2,7 @@
 
 
 <h2>Skills</h2>
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 
