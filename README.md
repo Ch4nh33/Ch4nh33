@@ -7,7 +7,7 @@ studying Janpanese and English and Spanish(español) <br><br>
 
 <h2>Skills</h2>
 
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/C-violet?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Kali-557c94?style=flat-square&logo=KailiLinux&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-88AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Terminal-4D4DAD?style=flat-square&logo=Windows Terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/C-violet?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Kali-557c94?style=flat-square&logo=KailiLinux&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-88AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Terminal-4D4DAD?style=flat-square&logo=Windows Terminal&logoColor=white"/> <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=Red Hat&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4nh33&show_icons=true&theme=graywhite)
