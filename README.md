@@ -1,7 +1,7 @@
 <h1>Hi there!</h1>
 My name is Yi chan hee! <br>
 interested in Pwnable,forensic,Crypto <br>
-studying Janpanese and English and Spanish(español) 
+studying Janpanese and English and Spanish(español) <br><br>
 
 <a href="https://www.notion.so/Who-am-I-baac3cfaf0624e279f048d79ca61f5ea" target="_blank"> <img src="https://img.shields.io/badge/Notions-black?style=flat-square&logo=Notion&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100008234440072" target="_blank"> <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"/> 
 
