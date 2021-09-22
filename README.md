@@ -3,10 +3,10 @@ My name is Yi chan hee! <br>
 interested in Pwnable,forensic,Crypto <br>
 studying Janpanese and English and Spanish(español) <br><br>
 
-初めましてみなさん！
-私の名前は Yi Chan Hee です
-Pwnable と Forensic と 暗号学に興味があるんです！
-日本語とスペイン語と英語を勉強するんです
+初めましてみなさん！<br>
+私の名前は Yi Chan Hee です<br>
+Pwnable と Forensic と 暗号学に興味があるんです！<br>
+日本語とスペイン語と英語を勉強するんです<br>
 よろしくお願いいたします
 
 
