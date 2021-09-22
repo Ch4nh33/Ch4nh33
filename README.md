@@ -2,7 +2,7 @@
 
 
 <h2>Skills</h2>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Android&logoColor=white"/>
 
 
 
