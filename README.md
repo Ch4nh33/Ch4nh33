@@ -10,7 +10,8 @@ Pwnable と Forensic と 暗号学に興味があるんです！<br>
 日本語とスペイン語と英語を勉強しています。<br>
 よろしくお願いします<br>
 
-¡Hola amigo mucho gusto!<br>
+<h2>Amigo!</h2>
+¡Hola mucho gusto!<br>
 ¡yo soy Coreano!<br>
 
 <h1>Contact Me</h1>
