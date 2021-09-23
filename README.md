@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-My name is Yi chan hee!🇰🇷 <br>
+My name is Yi chan hee <br>
 interested in Pwnable,forensic,Crypto <br>
 studying Janpanese and English and Spanish(español) <br><br>
 
