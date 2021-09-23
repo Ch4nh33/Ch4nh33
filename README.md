@@ -20,7 +20,8 @@ yo soy Coreano!<br>
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/> <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/> 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4nh33)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4nh33&show_icons=true&theme=graywhite)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4nh33&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ch4nh33=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Exprience</h2>
   <h3>2018</h3>
   Anti-root Security rearch Team 2019~<br>
