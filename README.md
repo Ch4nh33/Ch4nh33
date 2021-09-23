@@ -7,7 +7,7 @@ studying Janpanese and English and Spanish(español) <br><br>
 私の名前は Yi Chan Hee です<br>
 Pwnable と Forensic と 暗号学に興味があるんです！<br>
 日本語とスペイン語と英語を勉強しています。<br>
-よろしくお願いいたします<br>
+よろしくお願いします<br>
 
 ¡Hola amigo mucho gusto!<br>
 yo soy Coreano!<br>
