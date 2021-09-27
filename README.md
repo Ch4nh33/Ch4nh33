@@ -10,10 +10,6 @@ Pwnable と Forensic と 暗号学に興味があるんです！<br>
 日本語とスペイン語と英語を勉強しています。<br>
 よろしくお願いします<br>
 
-<h2>¡Amigo!</h2>
-¡Hola mucho gusto!<br>
-¡yo soy Coreano!<br>
-
 <h1>Contact Me</h1>
 <a href="https://www.notion.so/Who-am-I-baac3cfaf0624e279f048d79ca61f5ea" target="_blank"> <img src="https://img.shields.io/badge/Notions-black?style=flat-square&logo=Notion&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100008234440072" target="_blank"> <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"/> <a href="https://www.instagram.com/ch4n_h33/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
 
