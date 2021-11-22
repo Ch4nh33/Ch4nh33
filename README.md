@@ -7,7 +7,6 @@ studying Janpanese and English and Spanish(español) <br><br>
 初めましてみなさん！<br>
 私の名前は Yi Chan Hee です<br>
 Pwnable と Forensic と 暗号学に興味があるんです！<br>
-日本語とスペイン語と英語を勉強しています。<br>
 よろしくお願いします<br>
 
 <h1>Contact Me</h1>
