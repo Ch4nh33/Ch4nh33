@@ -6,8 +6,8 @@ studying Janpanese and English and Spanish(español) <br><br>
 <h2>ようこそ！</h2>
 初めましてみなさん！<br>
 私の名前は Yi Chan Hee です<br>
-Pwnable と Forensic と 暗号学に興味があるんです！<br>
-よろしくお願いします<br>
+Pwnable と Forensic と 暗号学に興味があるし、いろいろことを勉強しています。<br>
+よろしくお願いします！<br>
 
 <h1>Contact Me</h1>
 <a href="https://www.notion.so/Who-am-I-baac3cfaf0624e279f048d79ca61f5ea" target="_blank"> <img src="https://img.shields.io/badge/Notions-black?style=flat-square&logo=Notion&logoColor=white"/> </a> <a href="https://www.facebook.com/profile.php?id=100008234440072" target="_blank"> <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"/> <a href="https://www.instagram.com/ch4n_h33/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
