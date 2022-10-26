@@ -43,8 +43,10 @@ Pwnable と Forensic と 暗号学に興味があるし、いろいろことを�
   <h3>2021</h3>
   F_active Forensic Research Team<br>
   Dot-gabi President<br>
-- 화웨이 보안이슈 제보<br>
-- 부울경 사이버 안보 컨퍼런스<br>
-- 국가 방첩 아이디어 공모전 참가<br>
-- 공공마이데이터 아이디어 공모전 참가<br>
-- KCI 논문예정<br>
+  화웨이 보안이슈 제보<br>
+  부울경 사이버 안보 컨퍼런스<br>
+  국가 방첩 아이디어 공모전 참가<br>
+  공공마이데이터 아이디어 공모전 참가<br>
+  KCI 논문예정<br>
+<h3>2022</h3>
+  Republic of Korea Navy Computer Emergency Response Team (대한민국 해군 CERT) ~2023.11.27 
