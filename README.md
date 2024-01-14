@@ -49,4 +49,7 @@ Pwnable と Forensic と 暗号学に興味があるし、いろいろことを�
   공공마이데이터 아이디어 공모전 참가<br>
   KCI 논문예정<br>
 <h3>2022</h3>
-  Republic of Korea Navy Computer Emergency Response Team (대한민국 해군 CERT) ~2023.11.27 
+  Republic of Korea Navy Computer Emergency Response Team (대한민국 해군 CERT) ~2023.11.27 <br>
+<h3>2023</h3>
+Republic of Korea Navy Computer Emergency Response Team (대한민국 해군 CERT) ~2023.11.27<br>
+국가 방첩 아이디어 공모전 은상 수상<br>
