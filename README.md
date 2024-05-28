@@ -1,5 +1,5 @@
 <h2>Hi there!</h2>
-My name is Yi chan hee <br>
+My name is Junhun Lee <br>
 interested in Embaded and Using linux kernel & system hacking <br>
 
 
